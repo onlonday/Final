@@ -1,0 +1,5 @@
+public enum ShapeEnums{
+  SQUARE,LINE,RIGHTS,LEFTS,RIGHTL,LEFTL;
+}
+
+//find way to add images and logic
